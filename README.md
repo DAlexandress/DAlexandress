@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**DAlexandress/DAlexandress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello World! 👋 I'm Douglas Alexandre </h1>
 
-Here are some ideas to get you started:
+<h2 align="left">Some Facts About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Currently, I'm expanding my expertise in the technology area, with a focus on improving my skills in front-end development, including advanced practices in HTML5, CSS3, JavaScript, and modern frameworks such as React.js.**
+
+- 📫 How to reach me _[www.linkedin.com/in/douglas-alexandre-bb6306133](www.linkedin.com/in/douglas-alexandre-bb6306133)_
+
+<h2 align="left">Skillset</h2>
+
+<h3 align="left">Programming Languages:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAlexandress&show_icons=true&locale=en&layout=compact" />
+
+<h3 align="left">Frontend Development:</h3>
+
+<p align='lef
