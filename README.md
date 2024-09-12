@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">Hi Devels! 👋 I'm Douglas Alexandre</h1>
+<h1 align="center">Hi Devs! 👋 I'm Douglas Alexandre</h1>
 
 <h2 align="left">Some Facts About Me</h2>
 
-- 🌱 I’m currently learning **I am expanding my expertise in the technology area, focusing on improving my skills in front-end development, including advanced practices in HTML5, CSS3, JavaScript, and modern frameworks such as React.js.**
+- 🌱 I’m currently learning **and expanding my expertise in the technology area, focusing on improving my skills in front-end development, including advanced practices in HTML5, CSS3, JavaScript, and modern frameworks such as React.js.**
 
 - 📫 How to reach me _[www.linkedin.com/in/douglas-alexandre-bb6306133](www.linkedin.com/in/douglas-alexandre-bb6306133)_
 
