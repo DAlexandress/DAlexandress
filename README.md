@@ -14,8 +14,6 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
 
-[<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dalexandress&layout=compact" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dalexandress&layout=compact
-)
 
 
 <h3 align="left">Frontend Development:</h3>
@@ -45,11 +43,11 @@
 <h2 align="left">Connect with Me</h2>
 
 <p align='left'>
-  <a href="https://github.com/DAlexandress" style="margin-right: 10px;">
+  <a href="https://github.com/DAlexandress" style="margin-right: 16px;">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" />
   </a>
 
-  <a href="www.linkedin.com/in/douglas-alexandre-bb6306133" style="margin-right: 10px;">
+  <a href="www.linkedin.com/in/douglas-alexandre-bb6306133" style="margin-right: 16px;">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
   </a>
 
