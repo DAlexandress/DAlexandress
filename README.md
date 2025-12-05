@@ -42,4 +42,17 @@
 
 <h2 align="left">Connect with Me</h2>
 
-<p align='left'><a href="https://github.com/DAlexandress"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="www.linkedin.com/in/douglas-alexandre-bb6306133"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://www.instagram.com/dalexandress/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height='40' title="instagram"/></a></p>
+<p align='left'>
+  <a href="https://github.com/DAlexandress" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" />
+  </a>
+
+  <a href="www.linkedin.com/in/douglas-alexandre-bb6306133" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+  </a>
+
+  <a href="https://www.instagram.com/dalexandress/">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height="40" />
+  </a>
+</p>
+
