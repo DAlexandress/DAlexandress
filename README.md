@@ -14,7 +14,8 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalexandress&layout=compact" />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dalexandress&layout=compact" />
+
 
 <h3 align="left">Frontend Development:</h3>
 
